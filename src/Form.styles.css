@@ -1,0 +1,10 @@
+form {
+  color: white;
+  text-align: center;
+}
+
+form input {
+  color: black;
+  border: none;
+  background-color: white;
+}
